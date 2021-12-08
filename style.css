@@ -1,0 +1,24 @@
+body{
+    font-family:'Comforter Brush' ;
+    background-color: bisque;
+
+}
+.header_div{
+    background-color: blueviolet;
+ color:darkgoldenrod;
+}
+
+.header_div p{
+    font-family: monospace;
+    color: darkseagreen;
+    font-size: larger;
+}
+.copy_right_footer{
+    position: fixed;
+   font-family: initial;
+   font-size: 10;
+   bottom: 0;
+   text-align: center;
+   background-color: lawngreen;
+   text-shadow: 5px 5px 5px rgb(72, 72, 77);
+}
